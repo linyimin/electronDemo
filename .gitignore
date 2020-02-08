@@ -1,0 +1,7 @@
+# Prerequisites Ä¿Â¼¹ýÂË
+/node_modules
+**/node_modules
+
+# Compiled Object files
+*.lock
+*.log
